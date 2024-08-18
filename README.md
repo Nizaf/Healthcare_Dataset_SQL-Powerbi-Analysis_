@@ -1,5 +1,8 @@
 **Healthcare Data SQL Project**
-*Overview*
+
+
+
+**Overview**
 This project demonstrates the application of SQL techniques on healthcare data to perform various operations including table alterations, data cleaning, renaming, and more. It showcases the use of SQL functions, joins, Common Table Expressions (CTEs), and aggregation functions to manipulate and analyze healthcare datasets.
 
 *Features*
